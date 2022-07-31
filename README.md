@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=tokyonight)
 
 
-# Recent Activity 
+## 📊 This Week I Spent My Time On
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#  Recent Activity 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#12](https://github.com/sxia1/brain-royale/pull/12) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
 2. 🎉 Merged PR [#11](https://github.com/sxia1/brain-royale/pull/11) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
@@ -34,8 +38,6 @@ Here are some ideas to get you started:
 9. 💪 Opened PR [#7](https://github.com/sxia1/brain-royale/pull/7) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
 10. 🎉 Merged PR [#6](https://github.com/sxia1/brain-royale/pull/6) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
 <!--END_SECTION:activity-->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 
