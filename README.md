@@ -4,16 +4,16 @@
 **GhazanfarShahbaz/GhazanfarShahbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Information About Me ✨
+- I'm current a Senior at Hunter College 
+- 🔭 I’m currently working on my personal server and a natural language bot
+- 🌱 I’m currently learning swift 
+- 👯 I’m looking to collaborate on almost anything
+- 💬 Ask me about my birds
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I have eidetic memory
 
 
 ## ✉️ Find me on:
@@ -24,4 +24,9 @@ Here are some ideas to get you started:
 </p>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=GhazanfarShahbaz.GhazanfarShahbaz)
+## My Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GhazanfarShahbaz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=dark)
+
+<!-- Themes:
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
