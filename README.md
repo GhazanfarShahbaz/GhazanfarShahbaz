@@ -29,5 +29,10 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=dark)
 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <!-- Themes:
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
