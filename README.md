@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Ghaz
 
 <!--
 **GhazanfarShahbaz/GhazanfarShahbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-## Information About Me ✨
-- I'm current a Senior at Hunter College 
+## ✨ Information About Me 
+- 🏫 I'm current a Senior at Hunter College 
 - 🔭 I’m currently working on my personal server and a natural language bot
 - 🌱 I’m currently learning swift 
 - 👯 I’m looking to collaborate on almost anything
@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 </p>
 
 
-## My Github Stats
+## 🏆 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GhazanfarShahbaz&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=dark)
 
 <!-- Themes:
