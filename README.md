@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ## ✨ Information About Me 
-- 🏫 I'm current a Senior at Hunter College 
+- 🏫 I'm currently a Senior at Hunter College 
 - 🔭 I’m currently working on my personal server and a natural language bot
 - 🌱 I’m currently learning swift 
 - 👯 I’m looking to collaborate on almost anything
@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 
 ## 🏆 My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GhazanfarShahbaz&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GhazanfarShahbaz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=tokyonight)
 
 
 # Recent Activity 
