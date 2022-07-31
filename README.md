@@ -22,8 +22,8 @@ Here are some ideas to get you started:
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </div>
 
-<!-- ## 📊 This Week I Spent My Time On -->
-<!--START_SECTION:waka-->
+## 📊 This Week I Spent My Time On
+<!-- START_SECTION:waka -->
 <!--END_SECTION:waka-->
 
 #  Recent Activity 
