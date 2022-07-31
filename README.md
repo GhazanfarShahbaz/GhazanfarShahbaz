@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 
 # Recent Activity 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#12](https://github.com/sxia1/brain-royale/pull/12) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+2. 🎉 Merged PR [#11](https://github.com/sxia1/brain-royale/pull/11) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+3. 💪 Opened PR [#11](https://github.com/sxia1/brain-royale/pull/11) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+4. 🎉 Merged PR [#9](https://github.com/sxia1/brain-royale/pull/9) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+5. 💪 Opened PR [#9](https://github.com/sxia1/brain-royale/pull/9) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+6. 🎉 Merged PR [#8](https://github.com/sxia1/brain-royale/pull/8) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+7. 💪 Opened PR [#8](https://github.com/sxia1/brain-royale/pull/8) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+8. 🎉 Merged PR [#7](https://github.com/sxia1/brain-royale/pull/7) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+9. 💪 Opened PR [#7](https://github.com/sxia1/brain-royale/pull/7) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+10. 🎉 Merged PR [#6](https://github.com/sxia1/brain-royale/pull/6) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
 <!--END_SECTION:activity-->
 
 
