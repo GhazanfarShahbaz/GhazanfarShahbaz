@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 9. 💪 Opened PR [#7](https://github.com/sxia1/brain-royale/pull/7) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
 10. 🎉 Merged PR [#6](https://github.com/sxia1/brain-royale/pull/6) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
 <!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 ## ✉️ Find me on:
