@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 ## 🏆 My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GhazanfarShahbaz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhazanfarShahbaz&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 ## 📊 This Week I Spent My Time On
