@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have eidetic memory
 
 
-## ✉️ Find me on:
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/ghazanfarshahbaz/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-    <a href="mailto:ghazanfarshahbaz2409@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
 
 
 ## 🏆 My Github Stats
@@ -33,6 +27,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## ✉️ Find me on:
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/ghazanfarshahbaz/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+    <a href="mailto:ghazanfarshahbaz2409@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 <!-- Themes:
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
