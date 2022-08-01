@@ -14,6 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MSG: "Updated README with waka"
+          COMMIT_MESSAGE: "Updated README with waka"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TOTAL: true
           SHOW_TIME: false
