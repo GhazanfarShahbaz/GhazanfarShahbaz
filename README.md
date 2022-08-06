@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
+
+```text
+Markdown     38 mins         █████████████████░░░░░░░░   68.01 %
+YAML         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
+Other        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+```
+
 <!--END_SECTION:waka-->
 
 #  Recent Activity 
