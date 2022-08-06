@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 📊 This Week I Spent My Time On
-<!--START_SECTION:waka -->
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 #  Recent Activity 
