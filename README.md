@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## ✨ Information About Me 
 - 🏫 I'm currently a Senior at Hunter College 
 - 🔭 I’m currently working on my personal server and a natural language bot
-- 🌱 I’m currently learning swift 
+- 🌱 I’m currently learning Swift 
 - 👯 I’m looking to collaborate on almost anything
 - 💬 Ask me about my birds
 - 😄 Pronouns: he/him/his
