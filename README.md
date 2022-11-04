@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Text         1 hr            ████████████████████▒░░░░   81.32 %
-Python       13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Text         1 hr 1 min      ███████████████▓░░░░░░░░░   62.15 %
+Python       31 mins         ████████░░░░░░░░░░░░░░░░░   31.94 %
+C++          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
