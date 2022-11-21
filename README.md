@@ -26,11 +26,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         11 mins         ██████████▓░░░░░░░░░░░░░░   43.24 %
-Text         10 mins         ██████████░░░░░░░░░░░░░░░   39.66 %
-Python       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-INI          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Python       23 mins         ████████▒░░░░░░░░░░░░░░░░   33.20 %
+Other        22 mins         ███████▓░░░░░░░░░░░░░░░░░   31.00 %
 ```
 
 <!--END_SECTION:waka-->
