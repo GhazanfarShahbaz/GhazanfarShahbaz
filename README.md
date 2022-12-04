@@ -33,8 +33,8 @@ XML   0 secs          ███████████████████�
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/11) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-2. 🎉 Merged PR [#11](https://github.com/sxia1/brain-royale/pull/11) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
+1. 🎉 Merged PR [#24](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/24) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+2. 🎉 Merged PR [#11](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/11) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
 3. 💪 Opened PR [#11](https://github.com/sxia1/brain-royale/pull/11) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
 4. 🎉 Merged PR [#9](https://github.com/sxia1/brain-royale/pull/9) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
 5. 💪 Opened PR [#9](https://github.com/sxia1/brain-royale/pull/9) in [sxia1/brain-royale](https://github.com/sxia1/brain-royale)
