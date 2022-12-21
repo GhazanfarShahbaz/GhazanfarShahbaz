@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ```text
 Python       1 hr 34 mins    █████████████████████░░░░   83.53 %
-Other        15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Other        15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
 ```
 
 <!--END_SECTION:waka-->
