@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Text   1 hr 3 mins     ████████████████████████▓   99.17 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Text       1 hr 3 mins     █████████████████░░░░░░░░   67.39 %
+C++        30 mins         ████████░░░░░░░░░░░░░░░░░   32.03 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
