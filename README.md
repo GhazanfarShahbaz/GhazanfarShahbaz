@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 40 mins   ███████████████▓░░░░░░░░░   62.46 %
-Other        49 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+Python       4 hrs 40 mins   █████████████████░░░░░░░░   68.15 %
+JSON         48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+SSH Config   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Other        23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
