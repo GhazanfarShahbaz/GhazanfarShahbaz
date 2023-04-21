@@ -36,12 +36,12 @@ Other        17 mins         █░░░░░░░░░░░░░░░░
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/2) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-2. 💪 Opened PR [#2](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/2) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-3. 🎉 Merged PR [#1](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/1) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-4. 💪 Opened PR [#1](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/1) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-5. 🎉 Merged PR [#9](https://github.com/GhazanfarShahbaz/The_Shoe_Tab/pull/9) in [GhazanfarShahbaz/The_Shoe_Tab](https://github.com/GhazanfarShahbaz/The_Shoe_Tab)
-6. 🎉 Merged PR [#12](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/12) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
+1. 🎉 Merged PR [#6](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/6) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
+2. 💪 Opened PR [#6](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/6) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
+3. 🎉 Merged PR [#2](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/2) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
+4. 💪 Opened PR [#2](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/2) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
+5. 🎉 Merged PR [#1](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/1) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
+6. 💪 Opened PR [#1](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/1) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
 7. 🎉 Merged PR [#25](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/25) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
 8. 🎉 Merged PR [#26](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/26) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
 9. 🎉 Merged PR [#27](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/27) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
