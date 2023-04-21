@@ -36,10 +36,10 @@ Other        17 mins         █░░░░░░░░░░░░░░░░
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/29) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-2. 🎉 Merged PR [#28](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/28) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-3. 💪 Opened PR [#28](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/28) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-4. 🎉 Merged PR [#10](https://github.com/GhazanfarShahbaz/The_Shoe_Tab/pull/10) in [GhazanfarShahbaz/The_Shoe_Tab](https://github.com/GhazanfarShahbaz/The_Shoe_Tab)
+1. 🎉 Merged PR [#2](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/2) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
+2. 💪 Opened PR [#2](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/2) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
+3. 🎉 Merged PR [#1](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/1) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
+4. 💪 Opened PR [#1](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/1) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
 5. 🎉 Merged PR [#9](https://github.com/GhazanfarShahbaz/The_Shoe_Tab/pull/9) in [GhazanfarShahbaz/The_Shoe_Tab](https://github.com/GhazanfarShahbaz/The_Shoe_Tab)
 6. 🎉 Merged PR [#12](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/12) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
 7. 🎉 Merged PR [#25](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/25) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
