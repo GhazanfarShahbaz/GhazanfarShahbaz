@@ -35,16 +35,16 @@ Other        46 mins         ███░░░░░░░░░░░░░░
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/34) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-2. 💪 Opened PR [#34](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/34) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-3. 🎉 Merged PR [#6](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/6) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-4. 💪 Opened PR [#6](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/6) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-5. 🎉 Merged PR [#2](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/2) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-6. 💪 Opened PR [#2](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/2) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-7. 🎉 Merged PR [#1](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/1) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-8. 💪 Opened PR [#1](https://github.com/GhazanfarShahbaz/Kato-Backend-Server/pull/1) in [GhazanfarShahbaz/Kato-Backend-Server](https://github.com/GhazanfarShahbaz/Kato-Backend-Server)
-9. 🎉 Merged PR [#27](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/27) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-10. 🎉 Merged PR [#24](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/24) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+1. 🎉 Merged PR [#37](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/37) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+2. 🎉 Merged PR [#36](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/36) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+3. 🎉 Merged PR [#35](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/35) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+4. 🎉 Merged PR [#33](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/33) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+5. 🎉 Merged PR [#32](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/32) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+6. 🎉 Merged PR [#31](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/31) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+7. 🎉 Merged PR [#30](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/30) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+8. 🎉 Merged PR [#38](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/38) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+9. 💪 Opened PR [#38](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/38) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+10. 🎉 Merged PR [#34](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/34) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
 <!--END_SECTION:activity-->
 
 
