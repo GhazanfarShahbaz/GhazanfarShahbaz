@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.11 %
-Other        1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
-systemd      48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Markdown     38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-INI          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Python       1 hr 44 mins    █████████▒░░░░░░░░░░░░░░░   36.76 %
+Other        1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   24.52 %
+Docker       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+systemd      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Markdown     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 ```
 
 <!--END_SECTION:waka-->
