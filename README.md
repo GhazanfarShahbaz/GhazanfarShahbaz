@@ -37,16 +37,16 @@ Other        16 mins         ██▓░░░░░░░░░░░░░░
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/50) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-2. 🎉 Merged PR [#1](https://github.com/GhazanfarShahbaz/BlogBackend/pull/1) in [GhazanfarShahbaz/BlogBackend](https://github.com/GhazanfarShahbaz/BlogBackend)
-3. 💪 Opened PR [#1](https://github.com/GhazanfarShahbaz/BlogBackend/pull/1) in [GhazanfarShahbaz/BlogBackend](https://github.com/GhazanfarShahbaz/BlogBackend)
-4. 🎉 Merged PR [#14](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/14) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-5. 💪 Opened PR [#14](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/14) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-6. 🎉 Merged PR [#47](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/47) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-7. 🎉 Merged PR [#48](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/48) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-8. 🎉 Merged PR [#49](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/49) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-9. 💪 Opened PR [#49](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/49) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-10. 💪 Opened PR [#46](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/46) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+1. 🎉 Merged PR [#51](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/51) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+2. 💪 Opened PR [#51](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/51) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+3. 🎉 Merged PR [#50](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/50) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+4. 🎉 Merged PR [#1](https://github.com/GhazanfarShahbaz/BlogBackend/pull/1) in [GhazanfarShahbaz/BlogBackend](https://github.com/GhazanfarShahbaz/BlogBackend)
+5. 💪 Opened PR [#1](https://github.com/GhazanfarShahbaz/BlogBackend/pull/1) in [GhazanfarShahbaz/BlogBackend](https://github.com/GhazanfarShahbaz/BlogBackend)
+6. 🎉 Merged PR [#14](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/14) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
+7. 💪 Opened PR [#14](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/14) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
+8. 🎉 Merged PR [#47](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/47) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+9. 🎉 Merged PR [#48](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/48) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+10. 🎉 Merged PR [#49](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/49) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
 <!--END_SECTION:activity-->
 
 
