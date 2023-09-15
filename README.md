@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 43 mins   ███████████████████████▒░   93.78 %
-Text         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-CocoaPods    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python       3 hrs 43 mins   ██████████████████████░░░   87.73 %
+CocoaPods    20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Text         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
