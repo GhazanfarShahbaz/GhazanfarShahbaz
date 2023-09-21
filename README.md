@@ -37,16 +37,16 @@ Other          8 mins          █░░░░░░░░░░░░░░░�
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/GhazanfarShahbaz/ObsidianWrapper/pull/2) in [GhazanfarShahbaz/ObsidianWrapper](https://github.com/GhazanfarShahbaz/ObsidianWrapper)
-2. 💪 Opened PR [#2](https://github.com/GhazanfarShahbaz/ObsidianWrapper/pull/2) in [GhazanfarShahbaz/ObsidianWrapper](https://github.com/GhazanfarShahbaz/ObsidianWrapper)
-3. 💪 Opened PR [#68](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/68) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-4. 🎉 Merged PR [#1](https://github.com/GhazanfarShahbaz/Kato-Theme/pull/1) in [GhazanfarShahbaz/Kato-Theme](https://github.com/GhazanfarShahbaz/Kato-Theme)
-5. 💪 Opened PR [#1](https://github.com/GhazanfarShahbaz/Kato-Theme/pull/1) in [GhazanfarShahbaz/Kato-Theme](https://github.com/GhazanfarShahbaz/Kato-Theme)
-6. 🎉 Merged PR [#5](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/5) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
-7. 💪 Opened PR [#5](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/5) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
-8. 🎉 Merged PR [#2](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/2) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
-9. 🎉 Merged PR [#4](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/4) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
-10. 💪 Opened PR [#4](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/4) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
+1. 🎉 Merged PR [#69](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/69) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+2. 🎉 Merged PR [#54](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/54) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+3. 🎉 Merged PR [#61](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/61) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+4. 🎉 Merged PR [#62](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/62) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+5. 🎉 Merged PR [#63](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/63) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+6. 🎉 Merged PR [#67](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/67) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+7. 🎉 Merged PR [#68](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/68) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+8. 🎉 Merged PR [#2](https://github.com/GhazanfarShahbaz/ObsidianWrapper/pull/2) in [GhazanfarShahbaz/ObsidianWrapper](https://github.com/GhazanfarShahbaz/ObsidianWrapper)
+9. 💪 Opened PR [#2](https://github.com/GhazanfarShahbaz/ObsidianWrapper/pull/2) in [GhazanfarShahbaz/ObsidianWrapper](https://github.com/GhazanfarShahbaz/ObsidianWrapper)
+10. 💪 Opened PR [#68](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/68) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
 <!--END_SECTION:activity-->
 
 
