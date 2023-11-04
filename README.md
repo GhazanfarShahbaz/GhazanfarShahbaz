@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI        24 mins         █████████████░░░░░░░░░░░░   51.36 %
-Other      14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.79 %
-Python     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
