@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     1 hr 40 mins    ████████████████████▒░░░░   81.28 %
-Bash                       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Nginx configuration file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Other                      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python                     1 hr 40 mins    ██████████████████▒░░░░░░   72.68 %
+Other                      17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+Bash                       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Nginx configuration file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Swift                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
