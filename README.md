@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 19 mins   ███████████████████████▓░   94.15 %
-SSH Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       1 hr 3 mins     █████████████████████░░░░   83.72 %
+SSH Config   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
