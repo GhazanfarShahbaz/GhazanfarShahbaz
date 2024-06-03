@@ -37,8 +37,8 @@ Text         3 mins          █▒░░░░░░░░░░░░░░░
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/79) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
-2. 💪 Opened PR [#79](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/79) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
+1. 🎉 Merged PR [#4](https://github.com/GhazanfarShahbaz/ObsidianWrapper/pull/4) in [GhazanfarShahbaz/ObsidianWrapper](https://github.com/GhazanfarShahbaz/ObsidianWrapper)
+2. 🎉 Merged PR [#57](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/57) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
 3. 🗣 Commented on [#2](https://github.com/GhazanfarShahbaz/Obsidian-3DKnowledgeGraph/issues/2#issuecomment-1767394505) in [GhazanfarShahbaz/Obsidian-3DKnowledgeGraph](https://github.com/GhazanfarShahbaz/Obsidian-3DKnowledgeGraph)
 4. 🎉 Merged PR [#6](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/6) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
 5. 🎉 Merged PR [#7](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/7) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
