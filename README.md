@@ -37,10 +37,10 @@ C             56 mins         █░░░░░░░░░░░░░░░�
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GhazTools/TokenGranterWrapper/pull/1) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
-2. 💪 Opened PR [#1](https://github.com/GhazTools/TokenGranterWrapper/pull/1) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
-3. 🗣 Commented on [#2](https://github.com/GhazanfarShahbaz/Obsidian-3DKnowledgeGraph/issues/2#issuecomment-1767394505) in [GhazanfarShahbaz/Obsidian-3DKnowledgeGraph](https://github.com/GhazanfarShahbaz/Obsidian-3DKnowledgeGraph)
-4. 🎉 Merged PR [#6](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/6) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
+1. 🎉 Merged PR [#2](https://github.com/GhazTools/TokenGranterWrapper/pull/2) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
+2. 💪 Opened PR [#2](https://github.com/GhazTools/TokenGranterWrapper/pull/2) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
+3. 🎉 Merged PR [#1](https://github.com/GhazTools/TokenGranterWrapper/pull/1) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
+4. 💪 Opened PR [#1](https://github.com/GhazTools/TokenGranterWrapper/pull/1) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
 5. 🎉 Merged PR [#7](https://github.com/GhazanfarShahbaz/ToolReciever2.0/pull/7) in [GhazanfarShahbaz/ToolReciever2.0](https://github.com/GhazanfarShahbaz/ToolReciever2.0)
 6. 🎉 Merged PR [#73](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/73) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
 7. 🎉 Merged PR [#70](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/70) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
