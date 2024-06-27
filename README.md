@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        10 hrs 1 min    ████████▒░░░░░░░░░░░░░░░░   33.89 %
-YAML          9 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.35 %
-CMake         4 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-C++           2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Bash          1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+YAML          9 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   39.40 %
+Python        7 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
+CMake         4 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Bash          1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+C++           1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
