@@ -37,14 +37,14 @@ C++          39 mins         █░░░░░░░░░░░░░░░░
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/GhazTools/MetricConsumer/pull/2) in [GhazTools/MetricConsumer](https://github.com/GhazTools/MetricConsumer)
-2. 💪 Opened PR [#2](https://github.com/GhazTools/MetricConsumer/pull/2) in [GhazTools/MetricConsumer](https://github.com/GhazTools/MetricConsumer)
-3. 🎉 Merged PR [#1](https://github.com/GhazTools/MetricConsumer/pull/1) in [GhazTools/MetricConsumer](https://github.com/GhazTools/MetricConsumer)
-4. 💪 Opened PR [#1](https://github.com/GhazTools/MetricConsumer/pull/1) in [GhazTools/MetricConsumer](https://github.com/GhazTools/MetricConsumer)
-5. ❌ Closed PR [#1](https://github.com/GhazTools/Obsidian-3DKnowledgeGraph/pull/1) in [GhazTools/Obsidian-3DKnowledgeGraph](https://github.com/GhazTools/Obsidian-3DKnowledgeGraph)
-6. 🎉 Merged PR [#2](https://github.com/GhazTools/TokenGranterWrapper/pull/2) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
-7. 💪 Opened PR [#2](https://github.com/GhazTools/TokenGranterWrapper/pull/2) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
-8. 🎉 Merged PR [#1](https://github.com/GhazTools/TokenGranterWrapper/pull/1) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
+1. 🚀 Published release [First Release!](https://github.com/GhazTools/EnvironmentLoader/releases/tag/v1.0.0) in [GhazTools/EnvironmentLoader](https://github.com/GhazTools/EnvironmentLoader)
+2. 🚀 Published release [Test Release](https://github.com/GhazTools/EnvironmentLoader/releases/tag/v0.0.2) in [GhazTools/EnvironmentLoader](https://github.com/GhazTools/EnvironmentLoader)
+3. 🚀 Published release [First Publish with Actions](https://github.com/GhazTools/EnvironmentLoader/releases/tag/v0.0.2) in [GhazTools/EnvironmentLoader](https://github.com/GhazTools/EnvironmentLoader)
+4. 🎉 Merged PR [#2](https://github.com/GhazTools/MetricConsumer/pull/2) in [GhazTools/MetricConsumer](https://github.com/GhazTools/MetricConsumer)
+5. 💪 Opened PR [#2](https://github.com/GhazTools/MetricConsumer/pull/2) in [GhazTools/MetricConsumer](https://github.com/GhazTools/MetricConsumer)
+6. 🎉 Merged PR [#1](https://github.com/GhazTools/MetricConsumer/pull/1) in [GhazTools/MetricConsumer](https://github.com/GhazTools/MetricConsumer)
+7. 💪 Opened PR [#1](https://github.com/GhazTools/MetricConsumer/pull/1) in [GhazTools/MetricConsumer](https://github.com/GhazTools/MetricConsumer)
+8. ❌ Closed PR [#1](https://github.com/GhazTools/Obsidian-3DKnowledgeGraph/pull/1) in [GhazTools/Obsidian-3DKnowledgeGraph](https://github.com/GhazTools/Obsidian-3DKnowledgeGraph)
 9. 💪 Opened PR [#1](https://github.com/GhazTools/TokenGranterWrapper/pull/1) in [GhazTools/TokenGranterWrapper](https://github.com/GhazTools/TokenGranterWrapper)
 10. 🎉 Merged PR [#69](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies/pull/69) in [GhazanfarShahbaz/Ghazs-Personal-Cookies](https://github.com/GhazanfarShahbaz/Ghazs-Personal-Cookies)
 <!--END_SECTION:activity-->
