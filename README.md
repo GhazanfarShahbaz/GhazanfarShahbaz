@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        12 hrs          ████████░░░░░░░░░░░░░░░░░   31.76 %
-TypeScript    9 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.10 %
-YAML          3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-CocoaPods     2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-C++           2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Python        16 hrs 32 mins  █████████▓░░░░░░░░░░░░░░░   38.79 %
+TypeScript    9 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+YAML          3 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+CocoaPods     2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+C++           2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
