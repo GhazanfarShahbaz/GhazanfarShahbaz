@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 54 mins    ████████████████████▓░░░░   82.63 %
-Python       24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
