@@ -37,16 +37,16 @@ Markdown     8 mins          █▒░░░░░░░░░░░░░░░
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/17) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-2. 🎉 Merged PR [#18](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/18) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-3. 🎉 Merged PR [#19](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/19) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-4. 🎉 Merged PR [#20](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/20) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-5. 🎉 Merged PR [#21](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/21) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-6. 🎉 Merged PR [#15](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/15) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-7. 🎉 Merged PR [#16](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/16) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
-8. 🎉 Merged PR [#5](https://github.com/GhazTools/ObsidianWrapper/pull/5) in [GhazTools/ObsidianWrapper](https://github.com/GhazTools/ObsidianWrapper)
-9. 🎉 Merged PR [#6](https://github.com/GhazTools/ObsidianWrapper/pull/6) in [GhazTools/ObsidianWrapper](https://github.com/GhazTools/ObsidianWrapper)
-10. 🎉 Merged PR [#7](https://github.com/GhazTools/ObsidianWrapper/pull/7) in [GhazTools/ObsidianWrapper](https://github.com/GhazTools/ObsidianWrapper)
+1. 🎉 Merged PR [#5](https://github.com/GhazTools/FunctionTimer/pull/5) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
+2. 🎉 Merged PR [#6](https://github.com/GhazTools/FunctionTimer/pull/6) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
+3. 🎉 Merged PR [#1](https://github.com/GhazTools/FunctionTimer/pull/1) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
+4. 🎉 Merged PR [#2](https://github.com/GhazTools/FunctionTimer/pull/2) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
+5. 🎉 Merged PR [#3](https://github.com/GhazTools/FunctionTimer/pull/3) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
+6. 🎉 Merged PR [#4](https://github.com/GhazTools/FunctionTimer/pull/4) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
+7. 🎉 Merged PR [#17](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/17) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
+8. 🎉 Merged PR [#18](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/18) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
+9. 🎉 Merged PR [#19](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/19) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
+10. 🎉 Merged PR [#20](https://github.com/GhazanfarShahbaz/leetcode-bot/pull/20) in [GhazanfarShahbaz/leetcode-bot](https://github.com/GhazanfarShahbaz/leetcode-bot)
 <!--END_SECTION:activity-->
 
 
