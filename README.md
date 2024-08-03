@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       0 secs          ██████████████████▒░░░░░░   72.72 %
-Git Config   0 secs          ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
