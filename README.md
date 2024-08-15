@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       37 mins         ██████████████████▓░░░░░░   75.23 %
-Python     11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-CSV        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JSON   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
