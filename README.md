@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 mins          ████████████████░░░░░░░░░   64.09 %
-CSV      1 min           █████████░░░░░░░░░░░░░░░░   35.91 %
+Python    1 hr 39 mins    ██████████████████████▒░░   88.69 %
+CSV       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Text      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JSON      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+INI       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
