@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   25 mins         ███████████████████████▒░   93.09 %
-CSV      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+CSV       29 mins         █████████████░░░░░░░░░░░░   52.20 %
+Python    26 mins         ███████████▓░░░░░░░░░░░░░   46.52 %
+Todotxt   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
