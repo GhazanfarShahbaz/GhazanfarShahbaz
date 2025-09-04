@@ -26,11 +26,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      25 mins         ██████████████▒░░░░░░░░░░   57.59 %
-Other         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-JavaScript    5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Bash          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-AppleScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+AppleScript   0 secs          █████████████████████▓░░░   86.77 %
+Other         0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
 ```
 
 <!--END_SECTION:waka-->
