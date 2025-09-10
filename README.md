@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-AppleScript   0 secs          █████████████████████▓░░░   86.77 %
-Other         0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
