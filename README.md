@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       51 mins         ███████████████████▒░░░░░   77.26 %
-Markdown     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+TypeScript   1 hr 6 mins     ███████████░░░░░░░░░░░░░░   44.11 %
+Python       51 mins         ████████▓░░░░░░░░░░░░░░░░   34.40 %
+Markdown     18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
