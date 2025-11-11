@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 mins          ████████████████▓░░░░░░░░   66.24 %
-Git Config   1 min           ████████▒░░░░░░░░░░░░░░░░   33.63 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python       1 hr 19 mins    ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+TypeScript   59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+TOML         39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Bash         31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Markdown     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 ```
 
 <!--END_SECTION:waka-->
