@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 25 mins    ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-TypeScript   59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-TOML         39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-Bash         31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Markdown     25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Markdown   6 mins          █████████████░░░░░░░░░░░░   51.89 %
+Python     6 mins          ███████████▓░░░░░░░░░░░░░   47.26 %
+CSV        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
