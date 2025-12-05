@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         19 mins         ██████████▒░░░░░░░░░░░░░░   40.75 %
+SSH Config   15 mins         ████████▒░░░░░░░░░░░░░░░░   33.57 %
+Python       12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
 ```
 
 <!--END_SECTION:waka-->
