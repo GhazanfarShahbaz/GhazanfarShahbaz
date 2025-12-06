@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         19 mins         ██████████▒░░░░░░░░░░░░░░   40.75 %
-SSH Config   15 mins         ████████▒░░░░░░░░░░░░░░░░   33.57 %
-Python       12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+Bash         43 mins         █████████▓░░░░░░░░░░░░░░░   38.20 %
+Python       29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+SSH Config   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Markdown     12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Other        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
