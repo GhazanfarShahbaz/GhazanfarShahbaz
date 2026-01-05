@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     18 hrs 8 mins   █████████████▒░░░░░░░░░░░   52.73 %
-Other        10 hrs 9 mins   ███████▒░░░░░░░░░░░░░░░░░   29.55 %
-TypeScript   1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Makefile     1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-YAML         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Markdown     14 hrs 37 mins  █████████████▓░░░░░░░░░░░   54.66 %
+Other        8 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.95 %
+YAML         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Text         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Rust         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
