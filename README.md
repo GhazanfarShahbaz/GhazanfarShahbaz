@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   37 mins         ██████████████████▒░░░░░░   73.59 %
-YAML    13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
+Markdown   47 mins         ███████████░░░░░░░░░░░░░░   44.15 %
+Other      37 mins         ████████▓░░░░░░░░░░░░░░░░   34.56 %
+YAML       13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+JSON       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
