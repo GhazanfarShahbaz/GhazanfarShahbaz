@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   33.59 %
-JSON         2 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-Bash         1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Markdown     1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-CSV          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Other        3 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   31.63 %
+JSON         2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.44 %
+Bash         1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Markdown     1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+CSV          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 ```
 
 <!--END_SECTION:waka-->
