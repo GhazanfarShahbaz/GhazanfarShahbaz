@@ -6,21 +6,25 @@
 Here are some ideas to get you started:
 -->
 
-## ✨ Information About Me 
-- 🏫 I'm currently a Senior at Hunter College 
-- 🔭 I’m currently working on my personal server and a natural language bot
-- 🌱 I’m currently learning Swift 
-- 👯 I’m looking to collaborate on almost anything
-- 💬 Ask me about my birds
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have eidetic memory
+<p align="center">
+  <a href="https://ghaz.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-ghaz.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
+## 💻 Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,swift,react,nextjs,nodejs,express,flask,docker,git,html,css,tailwind,postgres,mongodb,prisma,linux" />
+  </a>
+</p>
+
+<div align="center">
 
 ## 🏆 My Github Stats
-<div>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=GhazanfarShahbaz&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</div>
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=GhazanfarShahbaz&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarShahbaz&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
@@ -34,6 +38,8 @@ JavaScript   32 mins         █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
