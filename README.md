@@ -39,8 +39,8 @@ No activity tracked
 
 #  Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/GhazTools/FunctionTimer/pull/5) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
-2. 🎉 Merged PR [#6](https://github.com/GhazTools/FunctionTimer/pull/6) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
+1. 🎉 Merged PR [#1](https://github.com/A-Somniatore/claude-conduit/pull/1) in [A-Somniatore/claude-conduit](https://github.com/A-Somniatore/claude-conduit)
+2. 💪 Opened PR [#1](https://github.com/A-Somniatore/claude-conduit/pull/1) in [A-Somniatore/claude-conduit](https://github.com/A-Somniatore/claude-conduit)
 3. 🎉 Merged PR [#1](https://github.com/GhazTools/FunctionTimer/pull/1) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
 4. 🎉 Merged PR [#2](https://github.com/GhazTools/FunctionTimer/pull/2) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
 5. 🎉 Merged PR [#3](https://github.com/GhazTools/FunctionTimer/pull/3) in [GhazTools/FunctionTimer](https://github.com/GhazTools/FunctionTimer)
