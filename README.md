@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   51 mins               █████████████████████▓░░░   86.20 %
-CSV      8 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Bash     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python   49 mins               █████████████████████▓░░░   86.13 %
+CSV      8 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
 ```
 
 <!--END_SECTION:waka-->
