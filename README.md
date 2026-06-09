@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       54 mins               ████████████████████▒░░░░   81.45 %
-Markdown   11 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-Other      1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Bash       20 mins               ████████████████▒░░░░░░░░   65.08 %
+Markdown   11 mins               ████████▓░░░░░░░░░░░░░░░░   34.92 %
 ```
 
 <!--END_SECTION:waka-->
