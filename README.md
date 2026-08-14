@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         35 mins               █████████░░░░░░░░░░░░░░░░   36.08 %
-TypeScript   26 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
-Markdown     20 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
-Python       9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Git Config   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JSON         45 mins               ██████████░░░░░░░░░░░░░░░   40.12 %
+TypeScript   26 mins               ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Markdown     20 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+Python       9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Docker       5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
 <!--END_SECTION:waka-->
