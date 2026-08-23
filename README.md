@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     0 secs                █████████████▒░░░░░░░░░░░   53.87 %
-Python   0 secs                ██████░░░░░░░░░░░░░░░░░░░   23.46 %
-Docker   0 secs                █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
