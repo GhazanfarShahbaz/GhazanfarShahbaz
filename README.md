@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     13 mins               ███████████████░░░░░░░░░░   60.03 %
+Git Config   9 mins                ██████████░░░░░░░░░░░░░░░   39.70 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
