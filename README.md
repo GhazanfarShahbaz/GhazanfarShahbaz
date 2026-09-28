@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     50 mins               ███████████████▒░░░░░░░░░   61.55 %
-JSON         29 mins               █████████░░░░░░░░░░░░░░░░   35.43 %
-Git Config   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Rust         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JSON          46 mins               ████████████▓░░░░░░░░░░░░   50.21 %
+Markdown      42 mins               ███████████▒░░░░░░░░░░░░░   45.86 %
+Git Config    2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Standard ML   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Rust          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
